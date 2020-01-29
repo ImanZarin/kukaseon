@@ -1,0 +1,4 @@
+
+GET http://localhost:3001/test?user=iman&pass=1234 HTTP/1.1
+
+GET https://swapi.co/api/people HTTP/1.1
